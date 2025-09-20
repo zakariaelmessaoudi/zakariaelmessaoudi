@@ -1,3 +1,5 @@
+![Banner](https://your-image-link.com/banner.png)
+
 # Hi there, I'm Zakaria El messaoudi · ZEM 👋
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -41,8 +43,8 @@ My goal is to help individuals, businesses, and creators bring their ideas to li
 
 ## 🌐 Connect With Me
 - 📧 Email: [zakariaelmessaoudi.dev@gmail.com](mailto:zakariaelmessaoudi.dev@gmail.com)  
-- 🌍 Portfolio/Website: [https://zem.infinityfree.me](https://zem.infinityfree.me)  
-- 💬 Telegram: [https://t.me/zem_dev](https://t.me/zem_dev)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=github)](https://zem.infinityfree.me)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram)](https://t.me/zem_dev)
 
 ---
 
