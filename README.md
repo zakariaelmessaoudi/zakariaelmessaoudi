@@ -1,6 +1,6 @@
 # Hi there, I'm Zakaria El messaoudi · ZEM 👋
 
-🚀 **Full-Stack Web Developer · HTML5, CSS3, Bootstrap, JS (OOP), PHP (OOP, MVC), Node.js, React**  
+**Full-Stack Web Developer · HTML5, CSS3, Bootstrap, JS (OOP), PHP (OOP, MVC), Node.js, React**  
 I am a full-stack web developer passionate about creating clean, responsive, and user-friendly websites and web applications. I specialize in building dynamic e-commerce stores, interactive portfolios, and custom web applications that solve real-world problems and provide engaging user experiences.
 
 With strong skills in HTML, CSS, JavaScript (POO-based), React, PHP (POO-based), and MySQL, I can handle both front-end and back-end development, ensuring your projects are fully functional, visually appealing, and easy to maintain.
