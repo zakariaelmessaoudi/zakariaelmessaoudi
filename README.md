@@ -1,4 +1,4 @@
-![Banner](https://your-image-link.com/banner.png)
+![Banner](https://github.com/zakariaelmessaoudi/zakariaelmessaoudi/blob/main/github-header-banner.png)
 
 # Hi there, I'm Zakaria El messaoudi · ZEM 👋
 
