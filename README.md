@@ -42,7 +42,7 @@ My goal is to help individuals, businesses, and creators bring their ideas to li
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: [zakariaelmessaoudi.dev@gmail.com](mailto:zakariaelmessaoudi.dev@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-zakariaelmessaoudi.dev@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakariaelmessaoudi.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=github)](https://zem.infinityfree.me)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram)](https://t.me/zem_dev)
 
