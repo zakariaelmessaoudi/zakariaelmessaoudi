@@ -23,15 +23,10 @@ I don’t just write code.
 I design systems, build products, and turn ideas into software that can actually be used.
 
 ZEM
-
 ├── Full-Stack Development
-
 ├── Backend Architecture
-
 ├── Chrome Extensions
-
 ├── SaaS & Web Applications
-
 └── Automation Systems
 
 ---
