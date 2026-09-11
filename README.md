@@ -15,21 +15,19 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+ 
+**Full-Stack Developer · Software Architect · Builder**
 
-**Full-Stack Web Developer · HTML5, CSS3, Bootstrap, JS (OOP), PHP (OOP, MVC), Node.js, React**  
-I am a full-stack web developer passionate about creating clean, responsive, and user-friendly websites and web applications. I specialize in building dynamic e-commerce stores, interactive portfolios, and custom web applications that solve real-world problems and provide engaging user experiences.
+I don’t just write code.
 
-With strong skills in HTML, CSS, JavaScript (POO-based), React, PHP (POO-based), and MySQL, I can handle both front-end and back-end development, ensuring your projects are fully functional, visually appealing, and easy to maintain.
+I design systems, build products, and turn ideas into software that can actually be used.
 
-I provide professional services including:
-
-- **Custom Website Development** – static and dynamic websites tailored to your needs.  
-- **Full-Stack E-Commerce Solutions** – from product management to checkout flows.  
-- **Portfolio & Personal Branding Websites** – creative designs that showcase skills and projects.  
-- **Web Applications** – dashboards, management tools, and interactive solutions.  
-- **Responsive & Mobile-Friendly Design** – ensuring seamless experiences across all devices.  
-
-My goal is to help individuals, businesses, and creators bring their ideas to life online, with solutions that are both functional and visually compelling.
+ZEM
+├── Full-Stack Development
+├── Backend Architecture
+├── Chrome Extensions
+├── SaaS & Web Applications
+└── Automation Systems
 
 ---
 
@@ -45,12 +43,6 @@ My goal is to help individuals, businesses, and creators bring their ideas to li
 [![Email](https://img.shields.io/badge/Email-zakariaelmessaoudi.dev@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakariaelmessaoudi.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=github)](https://zem.infinityfree.me)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram)](https://t.me/zem_dev)
-
----
-
-## 📊 GitHub Analytics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zakariaelmessaoudi&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakariaelmessaoudi&layout=compact&theme=tokyonight)  
 
 ---
 
